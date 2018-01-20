@@ -3,7 +3,7 @@ Boilerplate for React application in WordPress
 
 # Installation
 
-Clone the repo: `https://github.com/ymese/wp-react-toolkits` my-app .
+Clone the repo: `git clone https://github.com/ymese/wp-react-toolkits my-app .`
 
 To get started with fresh history, do this:
 
