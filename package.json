@@ -1,0 +1,24 @@
+{
+  "name": "wp-react-boilerplate",
+  "version": "1.0.0",
+  "description": "WordPress React Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymese/wp-react-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "boilerplate",
+    "wordpress"
+  ],
+  "author": "BWPS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymese/wp-react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/ymese/wp-react-boilerplate#readme"
+}
