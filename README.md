@@ -10,5 +10,5 @@ To get started with fresh history, do this:
 1. ```cd my-app```
 1. rm -rf .git (or in Windows rmdir .git /S /Q) - Remove Git database
 
-Run `npm start` and rock with React in WordPress.
+Run `npm install & npm start` and rock with React in WordPress.
 
